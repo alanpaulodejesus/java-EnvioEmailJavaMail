@@ -20,7 +20,7 @@ import java.util.Properties;
 public class ObjetoEnvioEmail {
 
     private String userName="userJavaLearn@gmail.com";
-    private String senha="@Alan2112";
+    private String senha="@1ApeR2xd#$df";
     private String listaDestinatarios="";
     private String remetente="";
     private String assuntoEmail ="" ;
